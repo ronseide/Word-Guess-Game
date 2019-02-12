@@ -10,6 +10,10 @@ html, body {
     min-height: 100%;
     margin-bottom: -3rem;
 }
+#start {
+    background-color: #614051;
+    color: #ffffff !important;
+}
 header {
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -21,7 +25,7 @@ header {
 .navbar-brand {
     background-color: #614051;
     color: #ffffff !important;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    /* font-family: 'Georgia', Times, Times New Roman, serif; */
     padding: 0.5rem 2rem 0.5rem 2rem;
     margin: 0rem;
 }
@@ -34,7 +38,7 @@ main {
 }
 h1 {
     color: #614051;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    /* font-family: 'Georgia', Times, Times New Roman, serif; */
     font-weight: bold;
     padding: 0.5rem 1rem 0.5rem 1rem;
 }
@@ -70,5 +74,5 @@ footer {
     background-color: #614051;
     text-align: center;
     color: #ffffff;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    /* font-family: 'Georgia', Times, Times New Roman, serif; */
 }
