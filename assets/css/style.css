@@ -13,6 +13,9 @@ html, body {
 #start {
     background-color: #614051;
     color: #ffffff !important;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 2 rem;
+
 }
 header {
     margin-top: 1rem;
@@ -25,8 +28,9 @@ header {
 .navbar-brand {
     background-color: #614051;
     color: #ffffff !important;
-    /* font-family: 'Georgia', Times, Times New Roman, serif; */
-    padding: 0.5rem 2rem 0.5rem 2rem;
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+    padding: 0.5rem 1rem 0.5rem 1rem;
     margin: 0rem;
 }
 .navbar-nav {
@@ -38,7 +42,7 @@ main {
 }
 h1 {
     color: #614051;
-    /* font-family: 'Georgia', Times, Times New Roman, serif; */
+    font-family: 'Josefin Sans', sans-serif;
     font-weight: bold;
     padding: 0.5rem 1rem 0.5rem 1rem;
 }
